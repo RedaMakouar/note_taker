@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/note_taker/static/js/main.7416d24f.chunk.js",
+    "main.js.map": "/note_taker/static/js/main.7416d24f.chunk.js.map",
+    "runtime-main.js": "/note_taker/static/js/runtime-main.b62cf597.js",
+    "runtime-main.js.map": "/note_taker/static/js/runtime-main.b62cf597.js.map",
+    "static/js/2.93786c98.chunk.js": "/note_taker/static/js/2.93786c98.chunk.js",
+    "static/js/2.93786c98.chunk.js.map": "/note_taker/static/js/2.93786c98.chunk.js.map",
+    "index.html": "/note_taker/index.html",
+    "precache-manifest.185436c885b5e5356c9943eb1fcc5dec.js": "/note_taker/precache-manifest.185436c885b5e5356c9943eb1fcc5dec.js",
+    "service-worker.js": "/note_taker/service-worker.js",
+    "static/js/2.93786c98.chunk.js.LICENSE.txt": "/note_taker/static/js/2.93786c98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b62cf597.js",
+    "static/js/2.93786c98.chunk.js",
+    "static/js/main.7416d24f.chunk.js"
+  ]
+}
